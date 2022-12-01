@@ -4,7 +4,7 @@ title: Writing Training - Vol.2
 date: 2022-11-19 18:19 +0800
 categories: [Writing, RandomTrain]
 image:
-    path: /LocalData/WriteTrain_Vol2.jpg
+    path: /LocalData/PostPic/2022-11/WriteTrain_Vol2.jpg
     heigh: 400
     width: 1000
 ---

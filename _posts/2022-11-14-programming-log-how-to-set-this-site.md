@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Programming Log - How to set this site
+title: Programming Log - How to set this static doc site
 date: 2022-11-14 09:43 +0800
 categories: [Programming, Blogging]
 tags: [Github Page, jekyll, bundle]
 # pin: true 
 ---
 
-![Desktop View](/LocalData/devices-mockup.png)
+![Desktop View](/LocalData/PostPic/2022-11/Devices_Mockup.png)
 _Responsive rendering of Chirpy theme on multiple devices_
 
 ## Prerequisites
