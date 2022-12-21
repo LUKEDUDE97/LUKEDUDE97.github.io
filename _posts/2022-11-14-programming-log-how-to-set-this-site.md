@@ -2,7 +2,7 @@
 layout: post
 title: Programming Log - How to set this static doc site
 date: 2022-11-14 09:43 +0800
-categories: [Programming, Blogging]
+categories: [Eins-Project, Code Blogging]
 tags: [Github Page, jekyll, bundle]
 # pin: true 
 ---

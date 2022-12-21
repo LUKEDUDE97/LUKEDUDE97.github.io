@@ -21,7 +21,7 @@ timezone: Asia/Chongqing
 
 title: LUKE PAGE                          # the main title
 
-tagline: A doc site for my home lab   # it will display as the sub-title
+tagline: Sensitive and lazy, yet free   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A doc site for my home lab.

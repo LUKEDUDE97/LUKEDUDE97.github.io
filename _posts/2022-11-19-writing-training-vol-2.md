@@ -2,7 +2,7 @@
 layout: post
 title: Writing Training - Vol.2
 date: 2022-11-19 18:19 +0800
-categories: [Writing, RandomTrain]
+categories: [W-Project, Writing, RandomTrain]
 image:
     path: /LocalData/PostPic/2022-11/WriteTrain_Vol2.jpg
     heigh: 400

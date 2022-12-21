@@ -2,7 +2,7 @@
 layout: post
 title: Plot Digitizer - Produce random synthetic images
 date: 2022-11-22 09:50 +0800
-categories: [Programming, Plot Digitizer]
+categories: [Zero-Project, Plot Digitizer]
 tags: [Plot Digitizer, Pytorch]
 ---
 
