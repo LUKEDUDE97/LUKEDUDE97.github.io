@@ -196,10 +196,10 @@ The plot sample will be generated and transformed to Tensor in `_generate_datase
 You may encounter following errors for conducting multiprocess here, a detailed discussion on python multiprocessing and `apply()`, `map()` function is present in my another post where you can find solutions. 
 
 > TypeError: `run()` arguement after * must be an iterable, not int
-{: .prompt-danger }
+{: .prompt-danger}
 
 > ValueError: not enough values to unpack (expected *, got 1)
-{: .prompt-danger }
+{: .prompt-danger}
 
 <!-- > Regarding apply vs map:
 >
