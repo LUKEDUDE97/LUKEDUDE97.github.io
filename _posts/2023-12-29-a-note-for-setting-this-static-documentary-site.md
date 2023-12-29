@@ -1,11 +1,16 @@
 ---
 layout: post
-title: A Note for Setting This Static Ddocumentary Ssite
+title: A Note for Setting This Static Documentary Site
 date: 2023-12-29 16:39 +0100
-
-categories: [Eins Project, Random Log]
-tags: [Jekyll, Bundle, Github]
+categories:
+- Eins Project
+- Random Log
+tags:
+- Jekyll
+- Bundle
+- Github
 pin: true
+post_description: This is a short note to record the detailed guidance on how to set and upgrade this site.
 ---
 
 ## Prerequisites
@@ -142,3 +147,5 @@ Unless you specified the output path, the generated site files will be placed in
 [starter]: https://github.com/cotes2020/chirpy-starter
 [pages-workflow-src]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
 [latest-tag]: https://github.com/cotes2020/jekyll-theme-chirpy/tags
+
+## Some My Customized Setting

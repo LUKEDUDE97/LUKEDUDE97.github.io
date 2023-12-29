@@ -73,7 +73,7 @@ refactor: true
 
             <div class="card-text content mt-0 mb-3">
               <p>
-                {% include no-linenos.html content=post.content %}
+                {% include no-linenos.html content=post.post_description %}
                 {{ content | markdownify | strip_html | truncate: 200 | escape }}
               </p>
             </div>
