@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Note for Setting This Static Documentary Site
+title: A Note for Setting This Static Documentary Site and Customized Style
 date: 2023-12-29 16:39 +0100
 categories:
 - Eins Project
@@ -10,9 +10,8 @@ tags:
 - Bundle
 - Github
 pin: true
-post_description: This is a short note to record the detailed guidance on how to set and upgrade this site.
+post_description: This is a short note to record the detailed guidance on how to set, upgrade and customize this site.
 ---
-
 ## Prerequisites
 
 Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. [Git](https://git-scm.com/) also needs to be installed.
@@ -60,7 +59,7 @@ Add following line to your application's Gemfile:
 ```console
 gem 'jekyll-compose', group: [:jekyll_plugins]
 ```
-It is a post managment tool for jekyll, which is quite convenient.
+It is a post managment tool for jekyll, [**jekyll-compose**](https://github.com/jekyll/jekyll-compose), which is quite convenient.
 Before running local server for the first time, go to the root directory of your site and run:
 
 ```console
@@ -149,3 +148,28 @@ Unless you specified the output path, the generated site files will be placed in
 [latest-tag]: https://github.com/cotes2020/jekyll-theme-chirpy/tags
 
 ## Some My Customized Setting
+
+### Post Abstract Content
+
+I need a customized content within the card text component for every post in the homepage, to give a short abstract or block the content at all. The former configuration let too much irrelative information in and it is so ugly a format. 
+
+Make change to the `home.html` according to the following:
+
+```html
+<div class="card-text content mt-0 mb-3">
+  <p>
+    % include no-linenos.html content=post.post_description %
+    { content | markdownify | strip_html | truncate: 200 | escape }
+  </p>
+</div>
+```
+{: file='_layouts/home.html'}
+
+Add alternative variable in the markdown file and call it whenever you want.
+
+```markdown
+---
+post_description: This is a short note to record the detailed guidance on how to set, upgrade and customize this site.
+---
+```
+ If needed, you can just leave it to null and you will get a clean post card in the homepage without and text description. `post.excerpt` is another option, but it directly extract the abstract from the first paragraph of main manuscript and can't set to be empty.
