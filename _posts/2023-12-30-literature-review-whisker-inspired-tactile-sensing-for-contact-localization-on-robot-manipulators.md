@@ -117,7 +117,7 @@ To be specific (vs baseline):
 - probabilistic rather than estimation that are deterministic (i.e. a distribution rather than single values)
 - Sensor model was calibrated, while a small deflection Euler-Bernoulli beam model was built
 
-A calculation method, that is to say mapping from sensor measurements to contact position, was built in this baseline work. The methods somehow is also depend on a given last estimation and new measured moment, to build a sustained estimation and give directly deterministic results. We’ll discuss it at *[Paper Reading: Extracting Object Contours with the Sweep of a Robotic Whisker Using Torque Information](/posts/paper-reading-extracting-object-contours-with-the-sweep-of-a-robotic-whisker-using-torque-information/)*.
+A calculation method, that is to say mapping from sensor measurements to contact position, was built in this baseline work. The methods somehow is also depend on a given last estimation and new measured moment, to build a sustained estimation and give directly deterministic results. We’ll discuss it at *[Paper Reading: Extracting Object Contours with the Sweep of a Robotic Whisker Using Torque Information](/posts/literature-review-extracting-object-contours-with-the-sweep-of-a-robotic-whisker-using-torque-information/)*.
 
 By the way, there’s another advantage of this algorithm. The proposed calibration method is much more generic to different types of whisker, since a complex model was avoided.
 
