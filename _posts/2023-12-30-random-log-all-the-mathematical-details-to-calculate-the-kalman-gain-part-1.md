@@ -9,7 +9,7 @@ tags: [Kalman Filter, State Estimate]
 math: true
 mermaid: true
 
-post_description: This is to thoroughly exam the details to calculate the kalmann gain and others of state estimation problem, mathematically.
+post_description: This is to thoroughly exam the details to calculate the kalmann gain and others of state estimation problem and data fusion, mathematically.
 ---
 
 ## Introduction 
