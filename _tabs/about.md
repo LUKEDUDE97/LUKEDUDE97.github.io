@@ -9,7 +9,7 @@ order: 4
 
 > Nonsense
 
-Hope all the bests stay conflict to the reality of this tedious, logically conquered, ruthless and fully automatic world. They shell be continuously disappear from the internet and buried into dust, so the warrior and kind citizens could regain it, worship it and make it stronger. But the life matters, so even though the truth has become unnecessary, we can still find the power to carry on. 
+I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched c-beams glitter in the dark near the Tanhauser Gate. All those moments will be lost in time. Like tears in rain.
 
 No real in reality thus Christina creats one in her own fantasy.
 
