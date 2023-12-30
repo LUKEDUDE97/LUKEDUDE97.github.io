@@ -39,7 +39,7 @@ A state estimation seems reasonable here, considering a sustained contact and pr
 
 However, as I understand, there’s another way to view it. 
 
-![Untitled](/LocalData/PostPic/EinsProject/ContactPointIllustraion.png){: .shadow width="740"}
+![Untitled](/localdata/assets/EinsProject/ContactPointIllustraion.png){: .shadow width="740"}
 
 > 💡 **Fig. 1:** $P_{a}$ , $P_{b}$ , $P_{c}$ , as contact point along the whisker can cause an exact same deflection moments on it.
 {: .prompt-tip}
@@ -104,7 +104,7 @@ To build mapping (sensor model, $g(\cdot)$) from multiple contact position to on
 
 Static assumption can hardly maintain true for the contact travel along the contour of large radius curvature objects, if so, the velocity of contact point relative to world-fixed frame $v_{sp_{c}}^b$ is non-zero. The state estimation model choose to temporarily ignore that **non-static error** since the sampling rate is quite fast as 250Hz, contact point can not move far between the iterations. Later to compensate that errors, it introduces a Fading Memory (FM) filter (which scales the prior covariance by a factor $\alpha=1.004$ at every time-step) in the model. 
 
-![Others](/LocalData/PostPic/EinsProject/Others.png){: .shadow width="740"}
+![Others](/localdata/assets/EinsProject/Others.png){: .shadow width="740"}
 
 Meanwhile, two general issues were also put into consideration: **induced vibration** from robot actuators & **ringing oscillation** when breaking contact from object. Vibrations from robot motion can be mostly ignored as they account for less than 3%of the maximum sensor signal. To compensate the oscillation, it applied a 6th order Butterworth band-pass IIR filter and used a threshold of filtered output to detect these lost-contact events. By the way, it also designed each array with a common-mode reference to compensate for the **geomagnetic filed**. 
 
@@ -123,7 +123,7 @@ By the way, there’s another advantage of this algorithm. The proposed calibrat
 
 ## **Experiments**
 
-![WhiskerExperiments](/LocalData/PostPic/EinsProject/WhiskerExperiments.PNG){: .shadow width="740"}
+![WhiskerExperiments](/localdata/assets/EinsProject/WhiskerExperiments.PNG){: .shadow width="740"}
 _Experiments Result Visualization_
 
 1. Each experiment consisted of 10 trials of data collected at 250Hz using the 2-Dof calibration stage. In each trial, the whisker makes contact and stays in contact with the thin dowel pin as it traces an arbitrary trajectory.
@@ -131,7 +131,7 @@ _Experiments Result Visualization_
 
 In the system demonstration, two curved whisker arrays that are attached to both sides of the end-effector, where each sensor is individually calibrated. The arm is commanded to move the end-effector in a pre-planned trajectory such that the whiskers on  both sides brush against the objects’ surfaces. 
 
-![Sysdemo](/LocalData/PostPic/EinsProject/SystemDemo.png){: .shadow width="740"}
+![Sysdemo](/localdata/assets/EinsProject/SystemDemo.png){: .shadow width="740"}
 _System Demonstration Results Visualization_
 
 ---
