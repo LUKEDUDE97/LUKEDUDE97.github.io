@@ -244,6 +244,12 @@ _Estimated trajectory from [10, 125] straight to [90, 145] and ground truth_
 
 Bayesian Filter UKF tracked on ground truth with a lowest Euclidean Distance of `0.311` millimeters and with a standard deviation of `0.801` millimeters. And it costs `68 steps` to converge to within 1mm of true location.
 
+>
+>⛔ There’s probably an unsolved issue in the unscented transform function of filterpy package (Version 1.4.5). In the update function of UKF Implementation, remember to reshape the sigmas point matrix with: `self.sigmas_h = np.atleast_2d(sigmas_h).reshape((-1, 1)) # DYX: reshape` , before send it into the transform function. The original irregulated array can’t be directly dot multiply to the weight matrix in `UT`.
+>
+{: .prompt-warning }
+
+
 ## Future Improvement
 
 ---
