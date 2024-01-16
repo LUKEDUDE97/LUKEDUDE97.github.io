@@ -249,6 +249,10 @@ Bayesian Filter UKF tracked on ground truth with a lowest Euclidean Distance of 
 >
 {: .prompt-warning }
 
+![Different initial position for a same ground truth trajectory, [10, 125]~[90, 145]](/localdata/assets/EinsProject/EstimatedTrajectories.png)
+_Different initial position for a same ground truth trajectory, [10, 125]~[90, 145]_
+
+There were a noticeable bounce near the middle, where $x \rightarrow 50$. It probably results from our sampling data of middle column when contact the whisker from both sides. We should try to resolve this problem later.
 
 ## Future Improvement
 
