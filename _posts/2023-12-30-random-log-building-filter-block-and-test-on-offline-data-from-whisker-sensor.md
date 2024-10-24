@@ -3,7 +3,7 @@ layout: post
 title: Building Filter Block and Test on Offline Data from Whisker Sensor
 date: 2023-12-30 22:19 +0100
 
-categories: [Eins-Project, Random Log]
+categories: [Eins-Project, Engineering Log]
 tags: [Whisker, State Estimate]
 
 math: true

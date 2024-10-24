@@ -8,7 +8,7 @@ date: 2023-12-30 11:26 +0100
 #     heigh: 400
 #     width: 1000
 
-categories: [Eins-Project, Random Log]
+categories: [Eins-Project, Engineering Log]
 tags: [F/T Sensor, EtherCAT]
 
 math: true

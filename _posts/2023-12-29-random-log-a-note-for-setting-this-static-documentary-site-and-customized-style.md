@@ -3,7 +3,7 @@ layout: post
 title: A Note for Setting This Static Documentary Site and Customized
   Style
 date: 2023-12-29 16:39 +0100
-categories: [Eins-Project, Random Log]
+categories: [Eins-Project, Engineering Log]
 tags:
 - Jekyll
 - Bundle

@@ -4,8 +4,8 @@ title: Data Collection for Magnetic Hall Effector & F/T Sensor & Motorized
   Stage
 date: 2023-12-30 11:39 +0100
 
-categories: [Eins-Project, Random Log]
-tags: [Whisker, F/T Sensor, CNC]
+categories: [Eins-Project, Engineering Log]
+tags: [Whisker, F/T Sensor, Motorized Stage]
 
 math: true
 mermaid: true

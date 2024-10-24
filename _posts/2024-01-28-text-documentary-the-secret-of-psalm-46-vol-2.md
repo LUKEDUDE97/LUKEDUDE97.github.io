@@ -8,6 +8,8 @@ image:
     heigh: 400
     width: 1000
 
+# pin: true
+
 categories: [W-Project, Text Documentary]
 ---
 
@@ -15,253 +17,42 @@ categories: [W-Project, Text Documentary]
 p {font-size:0.92rem;}
 </style>
 
-
-<h3 style="text-align: center;">Section 1. </h3>
+<h3 style="text-align: center;">Section 2. </h3>
 
 ---
 
-On the morning of the autumn equinox, September 20th, a new children’s picture book appeared in the stores of Great Britain.
+“9月20日，时值秋分时节，这天早上，一本新式的儿童图册出现在了大不列颠的各大街头店面当中。”
 
-This picture book was rather peculiar.
+“这本图册似乎十分不同寻常。在由十五幅细节极其丰富的彩色图画搭建起的故事当中，讲述了一只兔子如何将一件漂亮的珠宝带到了月亮之上。这是一篇十分短小且有些古怪的寓言故事。”
 
-It consisted of 15 meticulously detailed color paintings, illustrating a slight, whimsical tale about a rabbit delivering a jewel to the moon.
+在书封的背面有一张彩色的相片，那是一件真实存在的珠宝，形状正好像一只蹦跳的兔子。五尺长，由18克拉的黄金制成，边缘上还悬挂有其他装饰挂件和一些铃铛，其中包括由蓝色石英石制成的一个太阳和一个月亮。下方的简短文字介绍中是这样的说的，‘这件特殊的珠宝已经被秘密埋藏在了英格兰的某处，线索就藏在书中的文本和图画之中，它们会引领你找到宝藏‘“
 
-On the back jacket of the book was a color photograph of a real jewel shaped like a running rabbit, five inches long, fashioned of 18-karat gold, suspended with ornaments and bells, together with a sun and moon of blue quartz.
+“这件宝物属于首先找到它的人！”
 
-According to the blurb underneath, this very jewel had been buried somewhere in England.
+“这本书的名字叫做马斯奎拉德。据说一个叫做吉特威廉姆斯的人制作了这本书，一个奇奇怪怪，异想天开，素来擅长于恶作剧的人。”
 
-Clues pointing to its location were concealed in the text and in the pictures of the book.
+“没过多久，首版就已销售殆尽。大家不眠不休，整个国家无法自拔，突然陷入进了寻找‘兔子’的狂热当中。”
 
-The treasure would belong to whoever found it first.
+“疯狂的读者拿着尺子，罗盘和量角器，信誓旦旦地对着图册上的印刷版画漫无目地胡乱测量，试图寻找出一丝规律。电视台和杂志也对此无比着迷。怀着由衷的喜悦，他们不顾一起地追随疯狂信徒的脚步，不断地拆解线索，提出新的理论。”
 
-The book was called Masquerade. It was created by an eccentric little man with divergent eyes and a talent for mischief named Kit Williams.
+“从前一个一直无人知晓的公园，在它的另一个名字“兔子岭”被人注意到后，地面便被挖的千疮百孔，一群受了误导的宝藏猎人将这里蹂躏得一塌糊涂。当局不得不在此处树立起一个醒目的告示牌，确保一些游手好闲的小市民再别指望着在这里能发现什么黄金兔子。以至于到后来，一些寻宝者由于太过着迷，甚至不得不向心理医生寻求帮助。”
 
-Within days, the first printing was sold out. And the Empire That Never Sleeps found itself in the grip of Rabbit Fever.
+“这股狂潮一度穿越大西洋，蔓延到了美国，法国，意大利和德国境内。短短数月，马斯奎拉德就销售了一百多万册，这项前无古人的儿童读物销售纪录一直保持到了后来哈利波特系列的出现。外文译本销售量超过15万册，其中包括8万册的日文译本，尽管‘谜题’是用英文写成的。”
 
-Excited readers attacked the paintings with rulers, compasses and protractors.
+“而那件珠宝实际上只值几千美元，不过后来那已经无关紧要了。许多寻宝者数月内周游不列颠各地，四处搜索，为此花销了比那更多的费用。成为唯一找到宝藏的人，这比宝藏本身更具有诱惑力。因此虽然只是一时兴起，他们也削尖了脑袋。”
 
-Magazine articles and TV specials dissected the clues, floated theories, and followed with keen delight the reckless exploits of the fanatics.
+“宝藏，言外之意和隐秘处的线索对于人们来说，似乎都具有一种无可抗拒的吸引力。他们是不错的谈资。电子游戏从诞生的第一天起就没有忘记利用人类的这个小小心理。”
 
-One obscure park, unfortunately known by the nickname Rabbit Hill, was so riddled with holes excavated by misguided treasure seekers that the authorities had to erect signs assuring the public that no gold rabbits were to be found there.
+“‘彩蛋’，作为一种隐藏的惊喜，有着相似的表达。来自雅达利的史蒂文怀特在杂志《电子游戏》上首次提出了这个词。商业电子游戏历史上的第一个彩蛋出现在一个早期的雅达利2600游戏作品上，《冒险》，一个相当简单的名字。通过一系列不太可能的移动和不同寻常的操作，玩家将从游戏界面中发现一个隐藏的密室。在那里，“由沃伦罗宾怀特创造”的字样将持续闪烁。数十年来，彩蛋和他的邪恶孪生兄弟，作弊码，已经成为了一种寄生物，爬在电子游戏的躯体之上。所有杂志和网站都致力于这些精心策划的发现和传播。”
 
-Some hunters ended up seeking psychological counseling for their obsession.
+“那是我们的工具，是游戏和玩家间的默契，是属于游戏设计自己的语言。”
 
-The craze lept over the Atlantic Ocean and invaded America, France, Italy and Germany.
+“用彩蛋指代意外的隐藏惊喜可能是玩家首先开始的，但至于这种有意埋藏的手法，他们显然不是第一批真正这么做的人。几个世纪以来，各个流派的画家，作曲家和艺术家早已在他们的作品中埋下了无数有意为之的惊喜。”
 
-It sold over a million copies in a few months, a record unrivalled by any children’s title until the advent of Harry Potter.
+“直到最近才出现的具有定格功能的录像机和光盘播放机暴露了几十年来迪士尼在其作品内有意隐藏的色情内容。托马斯金凯德，通过在自己的画作中隐藏字母N来自娱自乐，签名旁的数字便表示了每幅画中隐藏的N的个数。毕加索，达利，拉斐尔，普桑和许多其他画家都在自己的画中藏下了各种各样的东西。”
 
-Over 150,000 copies were sold in foreign translations, including 80,000 copies in Japanese, despite the fact that the puzzle was only solvable in English.
+“一种最常见的把戏就是将自己，家人，朋友或同行的肖像隐藏在人群之中。埃尔格列柯喜欢狗，但是天主教廷禁止其在自己负责的圣像画中加入这一内容。所以，他将他们都藏了起来，通常就隐蔽在那些来自天堂之云的轮廓之间。作曲家德米特里·肖斯塔科维奇因为苏联文化部门施加的政治审查而恼火不已，他的交响曲和一些室内作品中充满了各种隐藏的象征指代以及部分颠覆性的暗示。如果这些内容被发现，他早就被送去了西伯利亚。莫扎特的歌剧《魔笛》中，有大量与共济会古老仪式有关的音乐引喻，他和他的导师海顿都曾经是这个古老秘密社团的成员。”
 
-It didn’t matter that the Masquerade jewel was only worth a few thousand dollars.
+“但是这些还都不算什么。那个巴洛克晚期的超人，终极音乐痴子，约翰·塞巴斯蒂安·巴赫，才是他们之中最为著名和高产的彩蛋供应商。”
 
-Many seekers spent far more than that in their months of exploration and travel.
-
-It was the thrill of the chase. The possibility of being The One.
-
-Treasure hunts, secret messages and hidden things seem to exert an irresistible appeal.
-
-They’re fun to look for, and to talk about.
-
-And this fact of human psychology has been exploited in computer games since the earliest days.
-
-It finds expression in the hidden surprises we call Easter eggs.
-
-Atari’s Steven Wright is credited with coining this term in the first issue of Electronic Games magazine.
-
-The first Easter egg in a commercial computer game appeared in an early Atari 2600 cartridge called, simply enough, Adventure.
-
-By a sequence of unlikely movements and obscure manipulations, players could discover a secret room where the words “Created by Warren Robinet” appeared in flashing letters.
-
-Over the decades, Easter eggs and their evil twin, cheat codes, have become an industry within an industry.
-
-Entire magazines and Web sites are now devoted to their carefully orchestrated discovery and dissemination.
-
-They’re part of our toolkit, our basic vocabulary, the language of computer game design.
-
-Computer gamers may have been the first to refer to hidden surprises as Easter eggs, but we certainly weren’t the first to use them.
-
-Painters, composers and artists of every discipline have been hiding stuff in their works for centuries.
-
-The recent advent of VCRs and laserdisc players with freeze-frame capability exposed decades of secret Disney erotica.
-
-Thomas Kinkade, the self-appointed “Painter of Light,” amuses himself by hiding the letter N in his works. A number beside his signature indicates how many Ns are hidden in each painting.
-
-Picasso, Dali, Raphael, Poussin and dozens of other painters concealed all kinds of stuff in their paintings.
-
-A favorite trick was hiding portraits of themselves, their families, friends and fellow artists in crowd scenes.
-
-El Greco loved dogs. But the Catholic Church forbid him from including any in his sacred paintings.
-
-So he hid them, usually within the outlines of celestial clouds.
-
-Composer Dmitri Shostakovich chafed under the political censorship imposed by the Soviet Ministry of Culture.
-
-His symphonies and chamber works are loaded with hidden signatures and subversive subtexts which, had they been recognized, would have sent him to Siberia.
-
-Mozart’s opera The Magic Flute is filled with musical allusions to the rituals of the Freemasons, the ancient secret society of which he and his mentor Haydn were members.
-
-But the most famous purveyor of Easter eggs is that champion of the late Baroque, the ultimate musical nerd, Johann Sebastian Bach.
-
-Bach was a student of gematria, the art of assigning numeric values to letters of the alphabet: A=1, B=2, C=3, etc.
-
-By comparing, sequencing or otherwise manipulating these numbers, secret messages can be concealed.
-
-Bach took particular delight in the gematriacal numbers 14 and 41.
-
-14 is the sum of the initials of his last name: B=2, A=1, C=3 and H=8.
-
-41 is the sum of his expanded initials, J S BACH.
-
-These two numbers show up over and over again in Bach’s compositions.
-
-One of the better-known examples is his setting of the chorale “Vor deinen Thron.”
-
-The first line of the melody contains exactly 14 notes, and the entire melody from start to finish contains 41.
-
-Another of Bach’s favorite games was the puzzle canon.
-
-A canon is a melody that sounds good when you play it on top of itself, a little bit out of sync.
-
-“Freres Jacques” and “Row, Row, Row Your Boat” are familiar examples of simple, two-voice canons.
-
-But a canon can employ any number of voices.
-
-And you don’t have to play each voice the same way, either.
-
-You can change the octave, transpose the key, invert the pitch, play it backwards, or any combination.
-
-Finding melodies that make good multi-voice canons is a fussy and difficult art, of which Bach was an undisputed master.
-
-Now, in a puzzle canon, the composer specifies the basic melody and the number of voices, but not the relationship of the voices.
-
-The student has to figure out the position and key of each voice, and whether to perform them inverted and/or backwards.
-
-Bach wrote quite a number of puzzle canons. The most famous, BWV 1076, is part of a fascinating story.
-
-One of Bach’s students was a fellow by the name of Lorenz Mizler, founder of The Society of Musical Science.
-
-This elite, invitation-only institution devoted itself to the study of Pythagorean philosophy, and the union of music and mathematics.
-
-Its distinguished membership reads like a Who’s Who of German composers, including Handel, Telemann and eventually Mozart.
-
-Applicants for membership in the Society were required to submit an oil portrait of themselves, along with a specimen of original music.
-
-With nerdly efficiency, society member number 14 decided to combine these admission requirements into a single work.
-
-He sat for a portrait with Elias Haussmann, official artist at the court of Dresden.
-
-This portrait, which now hangs in the gallery of the Town Hall in Leipzig, is the only indisputably authentic image of Bach in existence.
-
-The Haussman portrait shows Bach dressed in a formal coat with exactly 14 buttons. In his hand is a sheet of music paper upon which is written a puzzle canon for six simultaneous voices.
-
-In 1974, a manuscript was discovered which proved that this canon was the thirteenth in a series of exactly 14 canons based on the ground theme of the famous Goldberg Variations.
-
-As if these musical gymnastics weren’t enough, Bach liked to hide messages in his compositions by assigning notes to the letters.
-
-His initials B-A-C-H correspond to the pitch sequence B-flat, A, C and B-natural in German letter notation.
-
-This theme makes its most memorable appearance in the last bars of his final composition, The Art of Fugue, published soon after his death in 1750.
-
-The word “fugue” comes from the Latin fuga, which means flight (as in running away).
-
-So the art of fugue is the art of flight, the art of taking a theme and running with it.
-
-Bach wrote hundreds of fugues, but none as sublime as this sequence of 14.
-
-In the last and most complicated fugue in the series, the first and second sections develop normally. This is followed by the B-A-C-H signature, and then suddenly, without any warning or structural justification, the fugue stops dead in its tracks.
-
-One of the composer’s 20 children, his son Carl Philipp Emanuel, claimed that Bach died moments after those last few notes were written. This story is probably apocryphal.
-
-The Easter eggs in Bach’s music are a pleasant obscurity, known chiefly to professors and students of Baroque music.
-
-But in March of 2002, when this lecture was first delivered, those Easter eggs were the talk of the entire classical music industry.
-
-Sitting near the top of the classical music charts that month was a compact disc on the ECM label called Morimur.
-
-It is performed by the Hilliard choral ensemble together with a talented but, until then, little-known violinist, Christoph Poppen.
-
-The music on Morimur is based on a gematriacal analysis of Bach’s Partita in D Minor for solo violin.
-
-This analysis, by German professor Helga Thoene, assigns numeric values to the duration of notes, the number of bars, and the German letter notation of the Partita. In doing so, she claims to have discovered the complete text of several liturgical ceremonies encoded in the notes.
-
-The CD presents these hidden texts, superimposed over the original music. The result was strangely melancholy, dark, haunting, and very, very popular.
-
-Quite a few music critics attacked this disc.
-
-They didn’t buy Professor Thoene’s analysis, dismissing it as a combination of numerology and canny marketing.
-
-Their caution was not without basis.
-
-Numerology is a slippery slope down which many a fine mind has slid to its doom.
-
-Allow me to offer an amusing anecdote from my own experience.
-
-Back in the early ‘90s, before the Internet took off, one of the more popular online bulletin board systems was a service called Prodigy.
-
-I bought an account on Prodigy so I could join a fraternal interest group, and gossip with fellow members around the country.
-
-One day, a stranger appeared on our bulletin board. Right away, I knew we were in trouble.
-
-This fellow, whose name was Gary, began spouting all kinds of apocalyptic nonsense about worldwide conspiracies, secret societies and devil worship.
-
-At first we tried to be polite.
-
-We questioned his sources, corrected his histories, logically refuted his claims, and tried to behave in a civilized manner.
-
-But instead of soothing him, our attention only made him worse.
-
-His conspiratorial warnings became urgent, approaching hysteria. He began to threaten people who disagreed with him. To coin a phrase, Gary went All Upper Case.
-
-But his most urgent warnings weren’t about the gays, the Jews, the Rockefellers or the Illuminati.
-
-According to Gary, the greatest enemy of mankind was Santa Claus.
-
-Gary claimed to possess a secret numerical formula that “proved” beyond a shadow of a doubt that Santa Claus was an avatar of the Antichrist.
-
-Intrigued, we pressed Gary to reveal his formula. In doing so, we walked right into his trap. We should have known he had a book to sell.
-
-I fell for it. I sent him the fifteen bucks. Less than a week later the book arrived.
-
-Above an ominous photograph of the Washington monument was emblazoned the title: 666: The Final Warning!
-
-Inside this privately printed 494-page monster, Gary reveals a simple gematriacal formula which he claims was developed by the ancient Sumerians.
-
-This formula assigns successive products of 6 to each letter of the alphabet: A=6, B=12, C=18, etc.
-
-Imagine my dismay when I applied this ancient formula to the name “Santa Claus,” and obtained the blasphemous sum of 666, the Biblical Number of the Beast!
-
-I went on Prodigy and reported to the stunned members of our interest group that Gary was right, after all. There could be no doubt that, according to the unimpeachable wisdom of ancient Sumeria, Santa Claus was the AntiChrist.
-
-I then went on to point out several other names which, when submitted to Gary’s formula, also produced the sum 666.
-
-Names like “Saint James,” “New York” and “New Mexico.”
-
-Soon the bulletin board was filled with discoveries like “computer,” “Boston tea” and, most sinister of all, “sing karaoke.”
-
-Gary left us alone after that. I got my $15 worth.
-
-But Gary is hardly the first person to connect secret codes to the Bible.
-
-People have been looking for Easter eggs in the Bible for hundreds of years.
-
-The Hebrew mystical tradition of kabbalah can be described as a gematriacal meditation on the Pentateuch, the first five books of the Old Testament.
-
-The advent of computers has made the application of numerology to the Bible fast and efficient.
-
-The latest spate of Bible-searching was instigated by a book published in 1998 by Michael Drosnin, a former Wall Street Journal reporter.
-
-His book, The Bible Code, applied a skip-cypher, in which every nth character in a text is combined to form a message.
-
-By applying his skip-cypher to the Hebrew text of the Old Testament, Drosnin claimed to have discovered predictions of World War II, the Holocaust, Hiroshima, the assassination of Yitzhak Rabin and both Kennedys, the moon landing, Watergate, the Oklahoma City bombing, the election of Bill Clinton, the death of Princess Di and the comet that collided with Jupiter.
-
-He also found predictions of a giant earthquake in LA, a meteor hitting the earth, and nuclear armageddon, all scheduled to occur before the end of the last decade.
-
-The Bible Code spent many weeks on the bestseller lists, spawning several sequels and dozens of imitators.
-
-The Bible has certainly attracted its share of crackpots.
-
-But for the real hardcore egg hunters, nothing can rival the ingenuity, the tenacious scholarship, the stubborn zeal of those who seek the answer to the ultimate literary puzzle.
-
-A poisonous conundrum that has squandered fortunes, destroyed careers, and driven healthy, intelligent scholars to the brink of madness, and beyond.
-
-Who wrote Shakespeare?
+To be continued ...

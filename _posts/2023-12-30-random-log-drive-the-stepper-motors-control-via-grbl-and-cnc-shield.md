@@ -8,8 +8,8 @@ date: 2023-12-30 11:23 +0100
 #     heigh: 400
 #     width: 1000
 
-categories: [Eins-Project, Random Log]
-tags: [Stepper motor, CNC]
+categories: [Eins-Project, Engineering Log]
+tags: [Stepper motor, Motorized Stage]
 
 math: true
 mermaid: true
